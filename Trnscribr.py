@@ -1,3 +1,5 @@
+# Question 1 - Audio Transcription App.
+
 # Dependencies: use pip to install openai-whisper, moviepy, torch, soundfile, and transformers.
 
 import tkinter as tk
